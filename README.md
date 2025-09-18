@@ -46,12 +46,6 @@ Saat ini, proyek hanya berfokus pada desain struktur database dan belum memiliki
 
 ---
 
-## 🖼️ Diagram ERD Visual
-
-*(Diagram ini menggambarkan relasi antara tabel `users`, `car_washes`, `bookings`, `services`, dan `booking_service`.)*
-
----
-
 ## ⚙️ Cara Menjalankan Proyek (untuk pengujian migrasi)
 
 1. Clone repository ini:
